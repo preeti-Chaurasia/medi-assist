@@ -128,13 +128,13 @@ graph TD
 ⚠ NEVER push .env to GitHub. Your API key will be exposed publicly.
 
 ---
-
 ## Assets
 
-*Coming soon in Phase 7.*
+### Project Cover Banner
+![Medi-Assist Banner](assets/cover_page_banner.png)
 
----
+### Core Agent Architecture & Workflow
+![Medi-Assist Architecture](assets/architecture_diagram.png)
 
 ## Demo Script
-
-*Coming soon in Phase 8.*
+The spoken narrative walkthrough script for our presentation video can be found in `DEMO_SCRIPT.txt`.
